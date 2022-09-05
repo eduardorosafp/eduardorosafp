@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Rosa👋
 
 - 🔭 Atualmente estou em busca de uma oportunidade de estágio 
-- 🌱 Estudando back-end Java
+- 🌱 Estudando Java Script/ NodeJs, ReactJs e React Native
 
 <div align="center">
   <a href="https://github.com/eduardorosafp">
