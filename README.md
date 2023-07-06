@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eduardo Rosa👋
 
-- 🔭 Atualmente estou em busca de uma oportunidade de estágio 
+- 🔭 Desenvolvedor React at Liquifi
 - 🌱 Estudando Java Script/ NodeJs, ReactJs e React Native
 
 <div align="center">
