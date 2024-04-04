@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Eduardo Rosa👋
 
-- 🔭 Desenvolvedor React at Liquifi
+- 🔭 Desenvolvedor Node at Liquifi
+- 🔭 Desenvolvedor Ruby on Rails at Woffice
 - 🌱 Estudando Java Script/ NodeJs, ReactJs e React Native
 
 <div align="center">
