@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Rosa👋
 
-- 🔭 Desenvolvedor Node at Liquifi
-- 🌱 Estudando Java Script/ NodeJs, ReactJs e React Native
+- 🔭 Desenvolvedor Node at BGCBrasil
+- 🌱 Estudando Java Script/ NodeJs
 
 <div align="center">
   <a href="https://github.com/eduardorosafp">
