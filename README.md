@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eduardo Rosa👋
 
-- 🔭 Desenvolvedor Node at BGCBrasil
+- 🔭 Backend Developer Node at BGCBrasil
 - 🌱 Estudando Java Script/ NodeJs
 
 <div align="center">
