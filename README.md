@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Rosa👋
 
 - 🔭 Backend Developer Node at BGCBrasil
-- 🌱 Estudando Java Script/ NodeJs
+
 
 <div align="center">
   <a href="https://github.com/eduardorosafp">
